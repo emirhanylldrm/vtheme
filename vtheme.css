@@ -1,0 +1,34 @@
+/**
+ * @name Discord.tv
+ * @version 1.1
+ * @description Theme based on Twitch.tv design
+ * @author userMacieG#7591
+ * @invite hQUtgkr
+ * @donate https://www.paypal.com/donate?hosted_button_id=AQD8ZTW2H6NKG
+ * @website https://userMacieG.github.io/theme.html
+ * @source https://github.com/userMacieG/userMacieG.github.io/blob/master/betterdiscord/discord-tv.theme.css
+*/
+
+@import url("https://userMacieG.github.io/betterdiscord/discord-tv/main.css");
+
+:root {
+	--color-brand: #910000;
+	--color-brand-darker: #910000;
+	--color-brand-lighter: #910000;
+	--color-red: #e91916;
+	--color-red-darker: #bb1411;
+	--color-orange: #ffca61;
+	--color-orange-darker: #fcc439;
+	--color-green: #00e6cb;
+	--color-green-darker: #00ad96;
+	--color-gray: #72767d;
+	--color-gray-darker: #4f545c;
+	--shadow: 0 4px 8px rgba(0, 0, 0,.4), 0 0 4px rgba(0, 0, 0, .4);
+	--shadow-bottom: 0 1px 2px rgba(0, 0, 0, .9), 0 0 2px rgba(0, 0, 0, .9);
+	--user-background: #730000;
+}
+.tutorialContainer-2sGCg9 .wrapper-1BJsBx {
+	width: 100%;
+	height: 100%;
+	background: url("https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/bb/bb6946181564efbfd8d74d04d1101ef46980fb0b_full.jpg") center/contain no-repeat;
+}
